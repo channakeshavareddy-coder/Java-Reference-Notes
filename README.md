@@ -11,33 +11,14 @@ This repository serves as my centralized technical knowledge base, containing we
 ```text
 Technical-Reference Notes  
         |  
-        ├── Java-Full-Stack/  
+        ├──────── Java/  
         |           │  
-        |           ├── Frontend/  
-        |           ├── APIs/  
-        |           │  
-        |           ├── Backend/  
-        |           │       ├── Core-Java/  
-        |           │       │       ├── 01 Java Fundamentals
-        |           │       │       ├── 02 Java OOPs
-        |           │       │       ├── 03 Exception Handling in Java
-        |           │       │  
-        |           │       ├── JDBC/  
-        |           │       ├── Servlets/  
-        |           │       │  
-        |           │       ├── Spring-Ecosystem/  
-        |           │       │       ├── Spring-Framework/  
-        |           │       │       ├── Spring-Boot/  
-        |           │       │       └── Spring-MVC/  
-        |           │       │  
-        |           │       └── Hibernate-ORM/  
-        |           │  
-        |           └── Databases/  
+        |           └── Core-Java/  
+        |                   ├── 01 Java Fundamentals
+        |                   ├── 02 Java OOPs
+        |                   └── 03 Exception Handling in Java
         |  
-        |  
-        |  
-        |  
-        ├── Python Full Stack/
+        ├──────── Frontend Development/
 ```
 
 ## 🎯 Purpose
@@ -59,4 +40,3 @@ If you find any mistakes or have ideas to improve the notes, feel free to open a
 If you find these notes helpful, consider giving this repository a ⭐. It motivates me to continue learning and sharing knowledge with the community.  
 
 Thank you for visiting! Happy Learning!  
-  
